@@ -19,6 +19,7 @@ cep.addEventListener('focusout', async () => {
 
     try {
         
+        
     const onlyNumbers = /^[0-9]+$/;
     const cepValid = /^[0-9]{8}$/;
 // Verifica o tamanho CEP
