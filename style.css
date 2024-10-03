@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300;400&display=swap');
+
+body {
+    font-family: 'Saira Condensed', sans-serif;
+    text-align: center;
+    background-image: url('BackGround.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 106%;
+}
+
+
+.box {
+    width:300px;
+    margin:0 auto;
+    background-color:rgb(255, 255, 255);
+    padding:0px 1x 10px 8px;
+}
+
+.box .input {
+    width:100%;
+    margin-bottom: 10px;
+}
+.input {
+    background-color: rgb(255, 166, 0);
+    height: 20px;
+    size-adjust: 500px;
+}
+
+form{
+    width:98%;
+}
+
