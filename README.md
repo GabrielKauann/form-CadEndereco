@@ -14,6 +14,8 @@ Este projeto consiste na aplicação de ViaCep para pesquisar e achar ruas, bair
 # introdução 
 este projeto tem 4 inputs que servem para colocar os dados do CEP colocado e 1 input para escrever o CEP
 
+# Tecnologia utilizada
+javascript, html, css
 
 # autores
 Gabriel Kauan da Silva
